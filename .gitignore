@@ -1,2 +1,12 @@
+/.CtoGB-env-win
 /.CtoGB-env
 /.vscode
+/__pycache__
+/.vs
+*.out
+*.txt
+*.c
+*.cpp
+*.asm
+*editorconfig
+parsetab.py
